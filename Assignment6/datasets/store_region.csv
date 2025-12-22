@@ -1,0 +1,26 @@
+store_id,store_name,region
+1,Bangalore Store,South
+2,Chennai Store,South
+3,Hyderabad Store,South
+4,Coimbatore Store,South
+5,Mysore Store,South
+6,Delhi Store,North
+7,Noida Store,North
+8,Gurgaon Store,North
+9,Chandigarh Store,North
+10,Jaipur Store,North
+11,Mumbai Store,West
+12,Pune Store,West
+13,Ahmedabad Store,West
+14,Surat Store,West
+15,Vadodara Store,West
+16,Kolkata Store,East
+17,Bhubaneswar Store,East
+18,Patna Store,East
+19,Ranchi Store,East
+20,Guwahati Store,East
+21,Bhopal Store,Central
+22,Indore Store,Central
+23,Nagpur Store,Central
+24,Raipur Store,Central
+25,Jabalpur Store,Central
